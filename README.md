@@ -36,5 +36,5 @@ i've built many games using libGDX and a quite few native :iphone: Android Apps.
 ##### :blue_book: Certifications
  Udacity - Android Nanodegree :white_check_mark:
  
- On top i finished quite alot MOOC's :white_check_mark:
+ Quite alot of MOOC's :white_check_mark:
  
