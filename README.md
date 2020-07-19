@@ -22,7 +22,7 @@ i've build many games using libGDX and a quite few native :iphone: Android Apps.
  
 --> JavaScript & CSS
   
---> QA & Software testing
+--> QA & software testing
 
  
 ##### :file_folder: Some of my Projects
