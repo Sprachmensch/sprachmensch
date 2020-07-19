@@ -4,13 +4,18 @@
   
 ##### Hi, I'm SprachMensch
 
-I've build alot of games using libGDX and a few native :iphone: Android Apps. I’m currently working on :
-
-:pencil: a language learning App and :space_invader: some small games
-
+i've build alot of games using libGDX and a quite few native :iphone: Android Apps. Im currently switching over to programming Android Apps in Kotlin And i try to improve my HTML5 knowledge
 </p>
 
 <div><br></div>
+
+##### :wrench: currently working on :
+
+--- :pencil: a language learning App
+
+--- :space_invader: some small games
+
+
   
 ##### 🌱 Currently learning
 --> Kotlin / Android
