@@ -4,7 +4,7 @@
   
 ##### Hi, I'm SprachMensch
 
-i've build alot of games using libGDX and a quite few native :iphone: Android Apps. Im currently switching over to programming Android Apps in Kotlin. On top i try to improve my HTML5 knowledge ( playing around with different frameworks). Keep in mind that my Github Portfolio is not always up to date!
+i've build many games using libGDX and a quite few native :iphone: Android Apps. Im currently switching over to programming Android Apps in Kotlin. On top i try to improve my HTML5 knowledge ( playing around with different frameworks). Keep in mind that my Github Portfolio is not always up to date!
 </p>
 
 <div><br></div>
@@ -33,5 +33,7 @@ i've build alot of games using libGDX and a quite few native :iphone: Android Ap
 --- :floppy_disk: [BMI calculator](https://github.com/Sprachmensch/JS_BMI) tiny JS BMI calculator
 
 ##### :blue_book: Certifications
- Udacity - Android Nanodegree
+ Udacity - Android Nanodegree :white_check_mark:
+ 
+ On top i finished quite alot MOOC's :white_check_mark:
  
