@@ -4,7 +4,7 @@
   
 ##### Hi, I'm SprachMensch
 
-i've built many games using libGDX and a quite few native :iphone: Android Apps. I've been developing for Android since 2014 and since then i played around with many Topics, like Android TV, Sensors, Firebase, AdMob, different DataBases. Im currently switching over to programming Android Apps in Kotlin. On top i try to improve my HTML5 knowledge ( playing around with different frameworks).
+i've built many games using libGDX and a quite few native :iphone: Android Apps. I've been developing for Android since 2014 and since then i played around with many Topics, like Android TV, Sensors, Firebase, AdMob, different DataBases. Im currently switching over to programming Android Apps in Kotlin. 
 </p>
 
 <div><br></div>
