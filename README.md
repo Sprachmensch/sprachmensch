@@ -4,14 +4,14 @@
   
 ##### Hi, I'm SprachMensch
 
-i've built many games using libGDX and a quite few native :iphone: Android Apps. I've been developing for Android since 2014 and since then i played around with many Topics, like Android TV, Sensors, Firebase, AdMob, different DataBases. Im currently switching over to programming Android Apps in Kotlin. 
+i've built many games using libGDX and a quite few native Android Apps. I've been developing for Android since 2014 and since then i played around with many Topics, like Android TV, Sensors, Firebase, AdMob, different DataBases. Im currently switching over to programming Android Apps in Kotlin. 
 </p>
 
 <div><br></div>
 
 ##### :wrench: currently working on :
 
-=> :pencil: a language learning App
+=> 🌎 a language learning App
 
 => :space_invader: some small games
 
