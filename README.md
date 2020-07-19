@@ -8,6 +8,9 @@ I’m currently working on some small projects -> :pencil: a language learning A
 
 I've build alot of games using libGDX and quite a few native :iphone: Android Apps.
 
+<div><br></div>
+
+
 ##### 🌱 Currently learning
 --> Kotlin / Android
  
