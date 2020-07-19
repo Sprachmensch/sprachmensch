@@ -10,11 +10,14 @@ I've build alot of games using libGDX and a few native :iphone: Android Apps. Iâ
 
 </p>
 
-
+<div><br></div>
+  
 ##### ðŸŒ± Currently learning
 --> Kotlin / Android
  
 --> JavaScript & CSS
+ 
+
  
 ##### :file_folder: Some of my Projects
 
