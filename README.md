@@ -11,9 +11,9 @@ i've build many games using libGDX and a quite few native :iphone: Android Apps.
 
 ##### :wrench: currently working on :
 
---> :pencil: a language learning App
+==> :pencil: a language learning App
 
---> :space_invader: some small games
+==> :space_invader: some small games
 
 
   
@@ -21,7 +21,8 @@ i've build many games using libGDX and a quite few native :iphone: Android Apps.
 --> Kotlin / Android
  
 --> JavaScript & CSS
- 
+  
+--> QA & Software testing
 
  
 ##### :file_folder: Some of my Projects
