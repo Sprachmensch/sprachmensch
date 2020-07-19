@@ -4,7 +4,7 @@
   
 ##### Hi, I'm SprachMensch
 
-i've build many games using libGDX and a quite few native :iphone: Android Apps. Im currently switching over to programming Android Apps in Kotlin. On top i try to improve my HTML5 knowledge ( playing around with different frameworks). Keep in mind that my Github Portfolio is not always up to date!
+i've build many games using libGDX and a quite few native :iphone: Android Apps. I've played around with many Android Topics, like Android TV, Sensors, Firebase, AdMob, different DataBases. Im currently switching over to programming Android Apps in Kotlin. On top i try to improve my HTML5 knowledge ( playing around with different frameworks).
 </p>
 
 <div><br></div>
