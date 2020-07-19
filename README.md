@@ -4,11 +4,9 @@
 
 ##### Hi, I'm SprachMensch
 
-I’m currently working on some small projects -> mainly :pencil: educational apps and :space_invader: games.
+I’m currently working on some small projects -> :pencil: a language learning App and some small :space_invader: games.
 
 I've build alot of games using libGDX and quite a few native :iphone: Android Apps.
-
-My Github is not always up to date :(
 
 ##### 🌱 Currently learning
 --> Kotlin / Android
