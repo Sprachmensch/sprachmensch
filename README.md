@@ -6,12 +6,10 @@
 
 I've build alot of games using libGDX and a few native :iphone: Android Apps. I’m currently working on :
 
--- :pencil: a language learning App
-
--- :space_invader: some small games
+:pencil: a language learning App and :space_invader: some small games
 
 </p>
-<div><br></div>
+
 
 ##### 🌱 Currently learning
 --> Kotlin / Android
