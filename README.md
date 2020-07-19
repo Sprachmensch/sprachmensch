@@ -4,7 +4,7 @@
   
 ##### Hi, I'm SprachMensch
 
-I've build alot of games using libGDX and quite a few native :iphone: Android Apps. I’m currently working on :
+I've build alot of games using libGDX and a few native :iphone: Android Apps. I’m currently working on :
 
 -- :pencil: a language learning App
 
