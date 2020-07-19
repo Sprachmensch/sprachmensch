@@ -4,16 +4,16 @@
   
 ##### Hi, I'm SprachMensch
 
-i've build alot of games using libGDX and a quite few native :iphone: Android Apps. Im currently switching over to programming Android Apps in Kotlin And i try to improve my HTML5 knowledge
+i've build alot of games using libGDX and a quite few native :iphone: Android Apps. Im currently switching over to programming Android Apps in Kotlin. On top i try to improve my HTML5 knowledge ( playing around with different frameworks). Keep in mind that my Github Portfolio is not always up to date!
 </p>
 
 <div><br></div>
 
 ##### :wrench: currently working on :
 
---- :pencil: a language learning App
+--> :pencil: a language learning App
 
---- :space_invader: some small games
+--> :space_invader: some small games
 
 
   
