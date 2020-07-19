@@ -1,17 +1,16 @@
   
  <p align='left'>
   <img width="150" align='left' src="https://raw.githubusercontent.com/Sprachmensch/sprachmensch/master/photo_profile.png?raw=true">
-
+  
 ##### Hi, I'm SprachMensch
 
-I’m currently working on some small projects:
+I've build alot of games using libGDX and quite a few native :iphone: Android Apps. I’m currently working on :
 
 -- :pencil: a language learning App
 
--- some small :space_invader: games
+-- :space_invader: some small games
 
-I've build alot of games using libGDX and quite a few native :iphone: Android Apps.
-
+</p>
 <div><br></div>
 
 ##### 🌱 Currently learning
