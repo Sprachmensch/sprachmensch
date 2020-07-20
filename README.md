@@ -27,6 +27,8 @@ i've built many games using libGDX and a quite few native Android Apps. I've bee
  
 ##### :file_folder: Some of my Projects
 
+--- :floppy_disk: [PasswordGenerator](https://github.com/Sprachmensch/PWGenerator) written in Kotlin
+
 --- :floppy_disk: [CryptoTracker](https://github.com/Sprachmensch/Kotlin-CryptoTracker) written in Kotlin uses Glide&Volley
    
 --- :floppy_disk: [TriviaQuiz](https://github.com/Sprachmensch/TriviaQuiz) capstone project for the Android Nanodegree 
