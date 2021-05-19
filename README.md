@@ -1,6 +1,6 @@
   
  <p align='left'>
-  <img width="150" align='left' src="https://raw.githubusercontent.com/Sprachmensch/sprachmensch/master/photo_profile.png?raw=true">
+  <img width="150" align='left' src="https://raw.githubusercontent.com/Sprachmensch/sprachmensch/master/header.png?raw=true">
   
 ##### Hi, I'm SprachMensch
 
