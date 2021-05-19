@@ -4,14 +4,15 @@
   
 ##### Hi, I'm SprachMensch
 
-i've built many games using libGDX and a quite few native Android Apps. I've been developing for Android since 2014 and since then i played around with many Topics, like Android TV, Sensors, Firebase, AdMob, different Databases. Im currently switching over to programming Android Apps in Kotlin. 
+i'm currently in retraining as an IT specialist (System Integration) and this is one my Github profiles!<br>
+i've built many games using libGDX and a quite few native Android Apps. I've been developing for Android since 2014 and since then i played around with many Topics, like Android TV, Sensors, Firebase, AdMob, different Databases. Currently im programming mostly in Python. 
 </p>
 
 <div><br></div>
 
 ##### :wrench: currently working on :
 
-=> 🌎 a language learning App
+=> 🌎 a language learning App (private Repo)
 
 => :space_invader: some small games
 
@@ -30,5 +31,7 @@ i've built many games using libGDX and a quite few native Android Apps. I've bee
  Quite alot of MOOC's :white_check_mark:
  
  ##### 🌱 Currently learning / improving
-* Android(Kotlin), Python, JavaScript & CSS, QA & software testing
+* DevOps(tools/scripting)
+* Python
+* QA & software testing
 
