@@ -31,6 +31,7 @@ i've built many games using libGDX and a quite few native Android Apps. I've bee
  Quite alot of MOOC's :white_check_mark:
  
  ##### 🌱 Currently learning / improving
+* Automation 
 * DevOps(tools/scripting)
 * Python
 * QA & software testing
