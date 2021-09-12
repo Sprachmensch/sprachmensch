@@ -3,7 +3,7 @@
 
 i'm currently in retraining as an IT specialist (System Integration) and this is one of my Github profiles!<br>
 I've been developing for Android since 2014 and since then i've built many games using libGDX and a quite few native Android Apps.<br /> i played around with many Topics, like Android TV, Sensors, Firebase, AdMob, different Databases.<br />
-Currently i programming mostly in Python. 
+Currently i programming mostly in Python/Bash. 
 
   - - - -
 
@@ -17,7 +17,7 @@ Currently i programming mostly in Python.
  ##### 🌱 Currently learning / improving
 * Automation 
 * DevOps(tools/scripting)
-* Python
+* Python & Shell scripting
 * QA & software testing
 
 ##### Projects: 
