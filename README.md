@@ -18,7 +18,7 @@ Currently i programming mostly in Python/Bash.
 * Automation 
 * DevOps(tools/scripting)
 * Python & Shell scripting
-* QA & software testing
+* Networks (routing/protocols/tools)
 
 ##### Projects: 
 
